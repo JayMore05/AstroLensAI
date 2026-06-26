@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+astroquery
+astropy
+lightkurve
+reportlab
+scikit-learn
+plotly
